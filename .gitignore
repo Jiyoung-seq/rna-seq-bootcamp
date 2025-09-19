@@ -1,0 +1,9 @@
+# raw data and large files
+data/*
+results/*
+
+# but keep an empty placeholder so folders exist
+!.gitkeep
+
+# OS junk
+.DS_Store
