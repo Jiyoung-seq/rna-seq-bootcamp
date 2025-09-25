@@ -39,9 +39,11 @@ This repository records my 12-week RNA-seq analysis training.
   - `head`, `less`, `grep`, `wc`, `awk` 등을 활용해 데이터 구조를 빠르게 점검 가능.  
   - macOS 기본 `sed`는 `~` 문법을 지원하지 않음 → `awk`로 대체.  
 
-### Day3: Git 기초 (2025-09-25)
+### Day3
+- conda 환경에서 Jupyter Notebook 실행
 
-- README.md 수정 → Git add → commit → push 실습
+- pandas를 이용한 DataFrame 생성 및 요약 통계
 
-- Python 가상환경(rna-seq) 테스트
+- matplotlib으로 barplot, boxplot, histogram 시각화
 
+- CSV 파일 저장 및 불러오기 실습
