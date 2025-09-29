@@ -47,3 +47,11 @@ This repository records my 12-week RNA-seq analysis training.
 - matplotlib으로 barplot, boxplot, histogram 시각화
 
 - CSV 파일 저장 및 불러오기 실습
+
+
+## Day4 
+- pandas로 z-score 계산 
+
+- 데이터프레임 저장 (to_csv) 
+
+- matplotlib을 이용한 scatter plot 시각화
